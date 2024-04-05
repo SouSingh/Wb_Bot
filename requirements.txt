@@ -1,0 +1,9 @@
+fastapi==0.110.0
+llama_index==0.10.20
+openai==1.14.1
+python-dotenv==1.0.1
+streamlit==1.28.2
+tabula_py==2.9.0
+uvicorn==0.28.0
+weaviate_client==3.26.2
+llama-index-vector-stores-weaviate
